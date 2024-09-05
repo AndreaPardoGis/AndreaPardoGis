@@ -9,11 +9,11 @@
 
 - 🤝 Estoy buscando ayuda con **Aprendizaje de IA, ML,DL**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [Próximamente](Próximamente)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://andreapardogis.github.io/](https://andreapardogis.github.io/)
 
 - 📫 Cómo contactarme **andreapardogis@gmail.com**
 
-- 📄 Conoce mis experiencias [Disponible bajo petición](Disponible bajo petición)
+- 📄 Conoce mis experiencias (Disponible bajo petición)
 
 - ⚡ Dato curioso **Practico yoga regularmente, lo cual me ayuda a mantenerme equilibrado tanto física como mentalmente 🧘**
 
