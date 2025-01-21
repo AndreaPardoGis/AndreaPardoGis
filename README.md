@@ -29,4 +29,9 @@
 # Mis estadísticas en Github
 ![AndreaPardoGis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaPardoGis&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaPardoGis&layout=compact&theme=radical)
+
+| GitHub Stats | Most Used Languages |
+| --- | --- |
+| ![AndreaPardoGis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaPardoGis&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaPardoGis&layout=compact&theme=radical) |
+
